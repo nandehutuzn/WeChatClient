@@ -1,0 +1,14 @@
+E:\GitHub\Test\WeChatClient\WeChatClient\bin\Debug\WeChatClient.exe.config
+E:\GitHub\Test\WeChatClient\WeChatClient\bin\Debug\WeChatClient.exe
+E:\GitHub\Test\WeChatClient\WeChatClient\bin\Debug\WeChatClient.pdb
+E:\GitHub\Test\WeChatClient\WeChatClient\obj\Debug\WeChatClient.frmLogin.resources
+E:\GitHub\Test\WeChatClient\WeChatClient\obj\Debug\WeChatClient.Properties.Resources.resources
+E:\GitHub\Test\WeChatClient\WeChatClient\obj\Debug\WeChatClient.csproj.GenerateResource.Cache
+E:\GitHub\Test\WeChatClient\WeChatClient\obj\Debug\WeChatClient.exe
+E:\GitHub\Test\WeChatClient\WeChatClient\obj\Debug\WeChatClient.pdb
+E:\GitHub\Test\WeChatClient\WeChatClient\obj\Debug\WeChatClient.frmMainForm.resources
+E:\GitHub\Test\WeChatClient\WeChatClient\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\Test\WeChatClient\WeChatClient\bin\Debug\WebKitBrowser.dll
+E:\GitHub\Test\WeChatClient\WeChatClient\obj\Debug\WeChatClient.Controls.WchatBox.resources
+E:\GitHub\Test\WeChatClient\WeChatClient\obj\Debug\WeChatClient.Controls.WPersonalInfo.resources
+E:\GitHub\Test\WeChatClient\WeChatClient\obj\Debug\WeChatClient.csprojResolveAssemblyReference.cache
